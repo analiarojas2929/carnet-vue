@@ -4,7 +4,7 @@ import { ref } from 'vue'
 defineProps({
   msg: String,
 })
-
+/*hola*/
 const count = ref(0)
 </script>
 
